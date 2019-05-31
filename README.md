@@ -1,9 +1,9 @@
 # 《基于Spring Cloud的天气预报微服务实战》
 
-本教程所采用的技术及相关版本较新，请读者将相关开发环境设置成跟本教程所采用的一致，或者不低于本教程的配置。
+本项目采用的技术及相关版本较新，以下为开发环境的配置，可以设置为和我们项目一样的配置，或者不低于我们项目中的配置。
 
 * JDK 8
-* Eclipse Neon.2 Release (4.6.2)：本项示例采用Eclipse编写，但示例源码与具体的IDE无关，读者朋友可以自行选择适合自己的IDE，比如IntelliJ IDEA、NetBeans等。
+* Eclipse Neon.2 Release (4.6.2)：本项目采用Eclipse编写，源码与具体的IDE无关。
 * Gradle 4.0
 * Spring Boot 2.0.0.M4
 * Spring Boot Web Starter 2.0.0.M4
