@@ -28,14 +28,6 @@
 * Spring Cloud Config Client Finchley.M2
 * Spring Cloud Starter Netflix Hystrix Finchley.M2
 
-## 示例源码
-
-以下为教程中所涉及的示例源码：
-
-* 开启第一个 Spring Boot 项目 `initializr-start`
-* Hello World `hello-world`
-* 从一个天气预报系统讲起 `micro-weather-basic`
-* 使用Redis提升应用的并发访问能力 `micro-weather-redis`
 * 实现天气数据的同步`micro-weather-quartz`
 * 给天气预报一个“面子”`micro-weather-report`
 * 天气数据采集微服务的实现`msa-weather-collection-server`
@@ -55,12 +47,6 @@
 
 ## 版本说明
 
-* 2017-12-10：v1.0.0。
+* 2019-5-31：v1.0.0。
 
-## Contact 联系作者:
 
-* Blog: [waylau.com](http://waylau.com)
-* Gmail: [waylau521(at)gmail.com](mailto:waylau521@gmail.com)
-* Weibo: [waylau521](http://weibo.com/waylau521)
-* Twitter: [waylau521](https://twitter.com/waylau521)
-* Github : [waylau](https://github.com/waylau)
